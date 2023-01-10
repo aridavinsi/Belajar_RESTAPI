@@ -1,0 +1,10 @@
+Nama : Moh Ashari
+Nim  : 20201257
+
+Jawaban :
+1. REST API adalah antarmuka yang berupa kumpulan fungsi yang dapat dipanggil atau
+    dijalankan oleh  rogram lain.
+3. headless architecture adalah konsep pengembangan software yang memisahkan 
+    lapisan frontend dan lapisan backend situs web.
+   Kelebihannya adalah lapisan presentasi terpisah, multi saluran, pengalaman pelanggan 
+yang ditingkatkan, waktu load cepat, keunggulan kompetitif
